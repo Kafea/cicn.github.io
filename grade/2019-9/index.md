@@ -5,4 +5,6 @@
 
 ## 雷达图
 
- <iframe src="lei-c.html" frameborder="no"/>
+ <iframe src="radar-c.html" frameborder="no"/>
+
+
